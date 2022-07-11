@@ -1,3 +1,3 @@
 # JaredGraham.Dev
 
-https://github.com/LilGod777/JaredGraham.Dev/blob/main/screenshot/1.png?raw=true
+<img src="https://github.com/LilGod777/JaredGraham.Dev/blob/main/screenshot/1.png?raw=true">
