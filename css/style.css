@@ -16,5 +16,12 @@
 } */
 
 img.w-100.img-thumbnail {
-    height: 170.67px;
+    /* height: 225px; */
+}
+
+@media screen and (max-width: 768px) {
+    div.col-md-5 {
+        position: relative;
+        left: 250px;
+    }
 }
