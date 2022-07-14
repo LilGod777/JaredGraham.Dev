@@ -15,9 +15,10 @@
     height: 170px;
 } */
 
-img.w-100.img-thumbnail {
-    /* height: 225px; */
-}
+
+/* img.w-100.img-thumbnail {
+    height: 225px;
+} */
 
 @media screen and (max-width: 768px) {
     div.col-md-5 {
